@@ -2,5 +2,7 @@ This project uses SQLite3 db to store objects. So you must install SQLite.
 -- $ pip install -r requirements.txt
 -- $ python api.py
 
-APIs are ready:
+APIs are ready on:
 http://localhost:8080
+
+NOTE: dogimage must be base64 encoded string
