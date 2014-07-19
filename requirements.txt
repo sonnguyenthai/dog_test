@@ -2,3 +2,5 @@ tornado==4.0
 requests==2.3.0 # For test
 #simplejson # For Python < 2.6
 SQLAlchemy==0.9.6
+# PIL must be installed with JPEG support (libjpeg)
+http://effbot.org/downloads/Imaging-1.1.7.tar.gz
