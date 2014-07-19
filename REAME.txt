@@ -1,0 +1,6 @@
+This project uses SQLite3 db to store objects. So you must install SQLite.
+-- $ pip install -r requirements.txt
+-- $ python api.py
+
+APIs are ready:
+http://localhost:8080
